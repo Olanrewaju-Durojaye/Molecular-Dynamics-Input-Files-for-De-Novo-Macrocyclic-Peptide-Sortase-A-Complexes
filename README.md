@@ -343,5 +343,4 @@ the simulation setup, including starting coordinates, GROMACS molecular
 topologies, position-restraint files, and run-parameter files, are publicly
 available in this repository.
 
-The larger production molecular dynamics trajectory files are deposited separately in Zenodo and are accessible through the DOI provided above.
 ================================================================================
