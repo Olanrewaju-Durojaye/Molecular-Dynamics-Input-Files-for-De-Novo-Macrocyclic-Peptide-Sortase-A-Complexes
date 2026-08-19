@@ -1,5 +1,5 @@
 ================================================================================
-INPUT FILES FOR SORTASE A–MACROCYCLIC PEPTIDE MD SIMULATIONS
+GROMACS INPUT FILES FOR SORTASE A–MACROCYCLIC PEPTIDE MD SIMULATIONS
 ================================================================================
 
 Repository title:
@@ -243,7 +243,7 @@ CHARMM36 force field (charmm36-jul2021.ff).
 
 The exact GROMACS version, CHARMM36 distribution/version, water model,
 temperature, pressure, integration timestep, equilibration protocol, production
-simulation duration, and other simulation parameters are also described in the
+simulation duration, and other simulation parameters are described in the
 corresponding manuscript and are additionally specified where applicable in
 the supplied .mdp and topology files.
 
