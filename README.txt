@@ -28,7 +28,7 @@ starting structures, GROMACS topology files, and simulation parameter files.
 
 
 --------------------------------------------------------------------------------
-2. DIRECTORY STRUCTURE
+2. DIRECTORY STRUCTURE (SrtA_macrocyclic_peptide_MD_inputs.zip)
 --------------------------------------------------------------------------------
 
 SrtA_macrocyclic_peptide_MD_inputs/
