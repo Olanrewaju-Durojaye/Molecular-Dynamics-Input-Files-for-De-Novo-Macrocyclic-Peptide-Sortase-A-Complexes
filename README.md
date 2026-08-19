@@ -1,5 +1,5 @@
 ================================================================================
-GROMACS INPUT FILES FOR SORTASE A–MACROCYCLIC PEPTIDE MD SIMULATIONS
+INPUT FILES FOR SORTASE A–MACROCYCLIC PEPTIDE MD SIMULATIONS
 ================================================================================
 
 Repository title:
