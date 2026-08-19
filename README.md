@@ -331,7 +331,7 @@ Corresponding authors: Olanrewaju Ayodeji Durojaye/Rachid Doaud
     
 Institution: Chemical and Biochemical Sciences, Green Process Engineering, University Mohammed VI Polytechnic, 43150 Ben Guerir, Morocco
 
-Email: olanrewaju.ayodeji-durojaye-ext@um6p.ma
+Email: olanrewaju.ayodeji-durojaye-ext@um6p.ma; rachid.daoud@um6p.ma
 
 
 --------------------------------------------------------------------------------
@@ -343,7 +343,5 @@ the simulation setup, including starting coordinates, GROMACS molecular
 topologies, position-restraint files, and run-parameter files, are publicly
 available in this repository.
 
-The substantially larger production molecular dynamics trajectory files are
-deposited separately in Zenodo and are accessible through the DOI provided
-above.
+The larger production molecular dynamics trajectory files are deposited separately in Zenodo and are accessible through the DOI provided above.
 ================================================================================
